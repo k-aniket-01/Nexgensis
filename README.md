@@ -10,9 +10,8 @@ The project is implemented with a focus on **clean architecture, reusable functi
 
 **Aniket Khomane**
 
-* MCA — Completed in 2025
-* BCS — Computer Science
-* Primary Focus: Python & Backend Development
+* khomaneaniket9420@gmail.com
+* Python & Backend Developer
 
 ---
 
@@ -682,7 +681,7 @@ python3 --version
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/k-aniket-01/Nexgensis.git
 ```
 
 Navigate into the project:
@@ -1056,32 +1055,6 @@ If any sample output in the assignment document differs from the result calculat
 
 This keeps the implementation deterministic and data-driven.
 
----
-
-# Future Improvements
-
-If this project were expanded into a production delivery platform, possible improvements would include:
-
-* REST API using FastAPI
-* PostgreSQL database
-* Authentication and authorization
-* Delivery status tracking
-* Agent availability management
-* Vehicle capacity
-* Package priority
-* Route optimization
-* Geospatial database support
-* Redis caching
-* Background task processing
-* Logging
-* Monitoring
-* Docker
-* CI/CD
-* Cloud deployment
-
-These features are intentionally outside the scope of the current assignment.
-
----
 
 # Complete Execution Flow
 
